@@ -23,3 +23,7 @@ https://aip.baidubce.com/rpc/2.0/ai_custom/v1/classification/anchuang
 
 
 3、人工筛查，去掉错误图片。
+
+
+未清洗图片链接: https://pan.baidu.com/s/13JOP1QdySEO4eK-uCgDLFQ 
+提取码: dhkf 
