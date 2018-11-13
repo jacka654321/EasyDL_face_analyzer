@@ -2,9 +2,13 @@ EasyDL定制化图像识别-冲金说明
 
 https://blog.csdn.net/jacka654321/article/details/83996415
 
+
 爬虫和数据清洗步骤：
+
 1、爬取 人脸素颜照、素颜大头照；
+
 2、多重检测：
+
 ㈠调用 百度人脸识别 api(detect)，保留识别到的人脸图片；
 
 https://aip.baidubce.com/rest/2.0/face/v3/detect
